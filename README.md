@@ -1,5 +1,10 @@
 # hello-world
 my first repository in github
+-----------------------------------------------------
 
-python learner 
+print('hello world!')
+
+python learner
 C++ learner
+
+I love github
